@@ -3,10 +3,6 @@ public class UC1 {
     static final String APPLICATION_NAME = "Palindrome Checker App";
     static final String APPLICATION_VERSION = "Version 1.0";
 
-    /**
-     * Main Method - Entry Point of Java Application
-     * JVM starts execution from here.
-     */
     public static void main(String[] args) {
 
         displayWelcomeMessage();
